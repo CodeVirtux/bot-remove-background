@@ -5,8 +5,8 @@ from PIL import Image
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters
 
-TOKEN = "8138120207:AAE-lDPK0ZyLGAmawcF-g-_T9xXrYpduEDQ"
-# Load the ONNX model once
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+# Load the ONNX model once  
 session = new_session("isnet-general.onnx")
 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
