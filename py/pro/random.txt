@@ -1,0 +1,3 @@
+banana=66
+apele=4
+ananas='igase'

@@ -1,0 +1,6 @@
+color= input("enter a color: ")
+noun= input("enter a noun: ")
+adjective= input("enter an adjective: ")
+print("car is "+color)
+print(noun+" is your big dog hhh")
+print("hi 🖐️ you adjective is "+adjective)

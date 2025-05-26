@@ -1,0 +1,4 @@
+Viande 100
+Pomme 10
+Banane 8
+poissons 40

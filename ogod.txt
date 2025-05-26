@@ -1,0 +1,9 @@
+Moyenne des prix: 39.50
+Prix le plus élevé: 100.00
+Produit le moins cher: Banane
+
+Liste des produits triés par prix (croissant):
+Banane: 8.00
+Pomme: 10.00
+poissons: 40.00
+Viande: 100.00
